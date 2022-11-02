@@ -1,0 +1,42 @@
+[
+  {
+    "src": "images/1.jpg",
+    "desc": "Pine tree leaves"
+  },
+  {
+    "src": "images/2.jpg",
+    "desc": "Abandoned building"
+  },
+  {
+    "src": "images/3.jpg",
+    "desc": "Bible reading"
+  },
+  {
+    "src": "images/4.jpg",
+    "desc": "Sunny day"
+  },
+  {
+    "src": "images/5.jpg",
+    "desc": "Flying over the sea"
+  },
+  {
+    "src": "images/6.jpg",
+    "desc": "Sunset"
+  },
+  {
+    "src": "images/7.jpg",
+    "desc": "Clubhouse"
+  },
+  {
+    "src": "images/8.jpg",
+    "desc": "Suburbs"
+  },
+  {
+    "src": "images/9.jpg",
+    "desc": "By boat"
+  },
+  {
+    "src": "images/10.jpg",
+    "desc": "Laptop"
+  }
+]

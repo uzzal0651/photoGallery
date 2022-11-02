@@ -1,0 +1,61 @@
+#content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#content > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid lightgray;
+  padding: 2rem;
+  margin: 1rem;
+  box-shadow: 0px 0px 7px -1px rgba(0, 0, 0, 0.25);
+}
+#content img {
+  max-width: 160px;
+  margin: 1rem;
+}
+
+#nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#nav span {
+  padding: 8px;
+  border: 1px solid lightgray;
+  margin: 8px;
+}
+.modal {
+  width: 500px;
+  height: 500px;
+  background: white;
+  border: 4px solid lightgray;
+  position: absolute;
+  z-index: 10;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.overlay {
+  width: 100%;
+  height: 100%;
+  background: rgba(140, 130, 130, 0.5);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.btn-close {
+  position: absolute;
+  right: 30%;
+  top: 100px;
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
